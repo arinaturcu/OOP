@@ -1,0 +1,31 @@
+Arina-Emanuela Turcu 323CA
+
+                               TEMA 1 POO
+                               
+	Executarea actiunilor incepe in clasa Manager prin metoda run. Inainte
+de inceperea executarii actiunilor, toate datele din input sunt transferate in
+clasa Data. Pentru users, actors, videos, movies si serials se creeaza cate o
+clasa care cuprinde toate datele primite in input si implementeaza metode care
+ajuta la rezolvara actiunilor.
+
+	Clasa Data contine listele de obiecte de tipurile Actor, User,
+ActionInputData, Movie si Serial. Actor si User sunt clase independente, in
+timp ce clasele Movie si Serial extind clasa abstracta Show.
+	S-au implementat clasele Command, Query si Recomandation care extind
+clasa abstracta Action. Fiecare dintre acestea are o mateoda numita execute
+care clasifica actiunea si apeleaza metodele corespunzatoare.
+
+	Metoda execute din Command apeleaza una din metodele commandFavorite,
+commandView sau commandRating in functie de action.getType().
+	Metoda execute din Query apeleaza queryActors, queryVideos sau
+queryUsers in functie de action.getObjectType(). queryActors apeleaza apoi
+actorAverage, actorAwards sau actorFilterDescription in functie de
+action.getCriteria. In mod asaemanator, queryVideos apeleaza videosRating,
+videosFavorite, videosLongest sau videosMostViewed in functie de
+action.getCriteria(). Metoda queryUsers nu face nicio selectie. Pentru fiecare
+tip (actor, video sau user) exista o metoda care adauga mesajul de output in
+JSONArray.	
+
+	Executarea unei actiuni se termina cand se pune in JSONArray mesajul 
+care trebuie scris in fisierul de output.
+

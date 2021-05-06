@@ -1,0 +1,25 @@
+Turcu Arina-Emanuela 323CA
+
+=============================== PROIECT ETAPA 1 ===============================
+
+Programul incepe in clasa Main care citeste inputul, ruleaza simularea si scrie
+outputul in fisier. Datele din fisierul de input sunt pastrate in clasele din
+pachetul input. Pentru implementarea funuctionalitatilor consumatorilor si
+distribuitorilor, s-au creat clasele din pachetul entities. Simularea
+propriu-zisa incepe odata cu apelarea metodei Simulator.run. In clasa Simulator
+se gasesc si alte functii specifice simularii cum ar fi runMonthlyTurn. Aceste
+metode s-au folosit de metode ajutatoare aflat in clasa SimulatorUtils. Datele
+din fisierul de input sunt pastrate in clasele din pachetul input. Pentru
+implementarea funuctionalitatilor consumatorilor si distribuitorilor, s-au
+creat clasele din pachetul entities.
+
+Design pattern-ul Factory s-a folosit pentru a crea instante pentru cele doua
+entitati (Consumer sau Distributor) care extind clasa abstracta Entity.
+
+Desing pattern-ul Singleton s-a folosit pentru starea curenta a simularii(clasa
+CurrentState) pentru ca este nevoie de o singura instanta de tip CurrentState
+pentru intreaga simulare, actualizandu-se in fiecare luna atributele acesteia.
+Aceasta instanta este data ca parametru metodei writeValue din clasa
+ObjectMapper in main pentru a scrie strea cureanta a simularii in fisierul de
+output.
+

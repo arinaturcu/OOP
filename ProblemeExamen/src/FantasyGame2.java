@@ -1,0 +1,2 @@
+public class FantasyGame2 {
+}

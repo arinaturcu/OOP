@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/old/design-patterns2/2017-skel/2017-skel.iml" filepath="$PROJECT_DIR$/old/design-patterns2/2017-skel/2017-skel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns2/2018/2018.iml" filepath="$PROJECT_DIR$/design-patterns2/2018/2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase-interne/2018/20181.iml" filepath="$PROJECT_DIR$/clase-interne/2018/20181.iml" />
+      <module fileurl="file://$PROJECT_DIR$/visitor/2018/20182.iml" filepath="$PROJECT_DIR$/visitor/2018/20182.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/323cab-arinaturcu.iml" filepath="$PROJECT_DIR$/.idea/323cab-arinaturcu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agregare-mostenire/agregare-mostenire.iml" filepath="$PROJECT_DIR$/agregare-mostenire/agregare-mostenire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase-abstracte-interfete/clase-abstracte-interfete.iml" filepath="$PROJECT_DIR$/clase-abstracte-interfete/clase-abstracte-interfete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase-interne/clase-interne.iml" filepath="$PROJECT_DIR$/clase-interne/clase-interne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old/clase-interne/clase-interne1.iml" filepath="$PROJECT_DIR$/old/clase-interne/clase-interne1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/colectii/colectii.iml" filepath="$PROJECT_DIR$/colectii/colectii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constructori-referinte/constructori-referinte.iml" filepath="$PROJECT_DIR$/constructori-referinte/constructori-referinte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old/design-patterns/design-patterns.iml" filepath="$PROJECT_DIR$/old/design-patterns/design-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old/design-patterns2/design-patterns2.iml" filepath="$PROJECT_DIR$/old/design-patterns2/design-patterns2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptii/exceptii.iml" filepath="$PROJECT_DIR$/exceptii/exceptii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/genericitate/genericitate.iml" filepath="$PROJECT_DIR$/genericitate/genericitate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basics/java-basics.iml" filepath="$PROJECT_DIR$/java-basics/java-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns/old/old.iml" filepath="$PROJECT_DIR$/design-patterns/old/old.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapitulare/recapitulare.iml" filepath="$PROJECT_DIR$/recapitulare/recapitulare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns2/skel/skel.iml" filepath="$PROJECT_DIR$/design-patterns2/skel/skel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-patterns/skel/skel1.iml" filepath="$PROJECT_DIR$/design-patterns/skel/skel1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/visitor/skel/skel2.iml" filepath="$PROJECT_DIR$/visitor/skel/skel2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static-final/static-final.iml" filepath="$PROJECT_DIR$/static-final/static-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/old/visitor/visitor.iml" filepath="$PROJECT_DIR$/old/visitor/visitor.iml" />
+    </modules>
+  </component>
+</project>
